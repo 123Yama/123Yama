@@ -9,6 +9,7 @@ I'm a passionate software developer and designer, enthusiastic about crafting im
 - 🚀 Actively contributing to open-source projects and exploring new technologies.
 - 💬 Always open to discussions, collaborations, and sharing knowledge.
 <hr>
+
 ## Skills
 
 ### Programming Languages & Tools
